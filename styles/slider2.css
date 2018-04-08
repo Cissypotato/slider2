@@ -1,0 +1,7 @@
+
+.pink{background: pink;border-color: pink;color: red}
+
+.window{width: 340px;overflow: hidden;margin: 20px auto;border: 1px solid #aaa}
+.images{display: flex;align-items: flex-start;}
+
+.btns{width: 340px;margin: 0 auto;}
